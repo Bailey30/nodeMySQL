@@ -1,0 +1,26 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000M\u0000y\u0000S\u0000Q\u0000L\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bailey30/nodeMySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bailey30/nodeMySQL/issues"
+  },
+  "homepage": "https://github.com/Bailey30/nodeMySQL#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.1",
+    "yargs": "^17.3.0"
+  }
+}
